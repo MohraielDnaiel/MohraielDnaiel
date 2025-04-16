@@ -2,8 +2,9 @@
 <h3 align="center">An enthusiastic developer passionate about code & creativity</h3>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/girl-2021913_1280.png" alt="coding girl" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVwcDFhNzFrc2gzcGFoYXd1d2d0ZDkzdndseDdsYmJtMndmN3N0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="coding girl" width="300"/>
 </p>
+
 
 ---
 
@@ -15,12 +16,14 @@
 ### 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-  <img src="https://img.icons8.com/color/48/000000/matlab.png"/>
+
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
 </p>
+
